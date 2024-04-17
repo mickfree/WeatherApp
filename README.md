@@ -5,7 +5,7 @@
     presents weather details, including temperature, weather condition, humidity, and wind speed. This documentation outlines the project's architecture, technologies used, and the functionality of each class within the application.
 </p>
 <p align="center">
-    <img src="" align="center">
+    <img src="https://github.com/mickfree/WeatherApp/blob/master/ScreenshotWeatherApp.png?raw=true" align="center">
 </p>
 
 <h2>Technologies Used</h2>
